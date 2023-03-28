@@ -1,0 +1,3 @@
+This python bot requires a .env file with a single line containing the information for your DISCORD_TOKEN.
+It also requires a seperate .txt file that it uses to store information on your assignments and dates.
+Various parts of this program can be editing to your liking.
